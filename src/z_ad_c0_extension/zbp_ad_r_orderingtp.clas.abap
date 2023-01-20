@@ -1,0 +1,9 @@
+CLASS zbp_ad_r_orderingtp DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zad_r_orderingtp.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZBP_AD_R_ORDERINGTP IMPLEMENTATION.
+ENDCLASS.
